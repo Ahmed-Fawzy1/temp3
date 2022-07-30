@@ -699,7 +699,7 @@ ul {
 .testimonials .container .box img {
   max-width: 100px;
   border-radius: 50%;
-  height: 100%;
+
   position: absolute;
   top: -50px;
   right: -10px;
